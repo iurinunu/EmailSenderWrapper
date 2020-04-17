@@ -8,7 +8,7 @@ import { Plugin, Cordova} from "@ionic-native/core";
     pluginName: "EmailSender",
     plugin: "cordova_plugin_emailSender",
     pluginRef: "EmailSender",
-    repo: "https://github.com/iurinunu/EmailSenderWrapper.git",
+    repo: "https://github.com/iurinunu/EmailSenderPlugin.git",
     platforms: ['Android']
 })
 @Injectable()
