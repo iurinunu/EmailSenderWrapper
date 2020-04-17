@@ -1,0 +1,23 @@
+{
+  "name": "email-sender",
+  "version": "1.0.0",
+  "description": "Email sender plugin wrapper",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iurinunu/EmailSenderWrapper.git"
+  },
+  "author": "Iurie Nunu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iurinunu/EmailSenderWrapper/issues"
+  },
+  "homepage": "https://github.com/iurinunu/EmailSenderWrapper#readme",
+  "dependencies": {
+    "@angular/core": "^5.2.11",
+    "@ionic-native/core": "^4.20.0"
+  }
+}
